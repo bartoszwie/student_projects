@@ -1,0 +1,12 @@
+/
+/home/uczen = ~
+cd ~
+ls - wyswietla
+touch - tworzy plik
+mcedit plik.txt - edit BOX FULL PIECE
+nano - edycja pliku
+mkdir nazwafolderu - tworzenie folderu
+rm test.txt - usuwanie pliku
+rm -r test - usuwanie folderu z zawartoscia
+./program.rozszerzenie - uruchomienie programu/skryptu
+chmod +x skrypt.sh
