@@ -7,14 +7,7 @@ int main(){
 	for(int = o; i < 3; i++){
 	for(int j = 0; j < 3 - 1; j++){
 	if(tablica[j] > tablica[j + 1]{
-}
+	int temp = tablica[j]
 
-
-
-}
-
-
-
-}
 	return 0;
 }
